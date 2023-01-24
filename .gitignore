@@ -1,0 +1,4 @@
+file6.txt
+*.py
+bin/
+**/bin
